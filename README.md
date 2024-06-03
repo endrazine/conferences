@@ -1,4 +1,4 @@
-# Past Conferences from Jonathan Brossard
+# Past Keynotes & Conferences by Jonathan Brossard / endrazine
 
 ![Jonathan Brossard](https://raw.githubusercontent.com/endrazine/endrazine.github.io/master/jo.jpg)
 
